@@ -2,6 +2,11 @@
 
 Estudiante: Camilo Vargas  -  Daniel Fernando Sanchez
 
+Estructura del proyecto:
+-Carpeta DataSet: El dataset se encuentra dentro de la carpeta DataSet, dentro se encuentran carpetas con imagenes enumeradas correspondientes a cada una de las categorias. Cada categoria cuenta con 20 fotos, para un total de 120 muestras
+
+-Carpeta Predicciones: se encuentra el archivo entrenamiento.py, que fue el archivo usado para entrenar y guardar los 3 modelos de aprendizaje. Tambien se encuentra el archivo
+
 Pruebas:
 
 | Nombre  | Accuracy               | Precision              | Recall                 | F1 Score               | loss                   | Epochs | Tiempo de respuesta (2 detecciones) |
