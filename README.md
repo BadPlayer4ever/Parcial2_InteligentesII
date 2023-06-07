@@ -2,6 +2,8 @@
 
 Estudiante: Camilo Vargas  -  Daniel Fernando Sanchez
 
+NOTA: Se resubio copia del video debido a audio corrupto. Se recomienda escuchar el video con todo el volumen
+
 Estructura del proyecto:
 -Carpeta DataSet: El dataset se encuentra dentro de la carpeta DataSet, dentro se encuentran carpetas con imagenes enumeradas correspondientes a cada una de las categorias. Cada categoria cuenta con 20 fotos, para un total de 120 muestras
 
