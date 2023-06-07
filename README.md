@@ -19,6 +19,8 @@ Estructura del proyecto:
 
 Pruebas:
 
+Las pruebas se realizaron a los tres modelos de aprendizaje implementados, cambiando las epocas de aprendizaje y el numero de batch
+
 | Nombre  | Accuracy               | Precision              | Recall                 | F1 Score               | loss                   | Epochs | Tiempo de respuesta (2 detecciones) |
 |---------|------------------------|------------------------|------------------------|------------------------|------------------------|--------|-----------------------------------|
 | ModeloA | 0.8666666746139526     | 0.9230769276618958     | 0.800000011920929      | 0.6933333553314208     | 0.4817933142185211     | 10     | 0.6131973266601562               |
