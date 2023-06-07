@@ -5,7 +5,17 @@ Estudiante: Camilo Vargas  -  Daniel Fernando Sanchez
 Estructura del proyecto:
 -Carpeta DataSet: El dataset se encuentra dentro de la carpeta DataSet, dentro se encuentran carpetas con imagenes enumeradas correspondientes a cada una de las categorias. Cada categoria cuenta con 20 fotos, para un total de 120 muestras
 
--Carpeta Predicciones: se encuentra el archivo entrenamiento.py, que fue el archivo usado para entrenar y guardar los 3 modelos de aprendizaje. Tambien se encuentra el archivo
+-Carpeta Predicciones: se encuentra el archivo entrenamiento.py, que fue el archivo usado para entrenar y guardar los 3 modelos de aprendizaje. Tambien se encuentra el archivo PruebasPrediccion.py Que fue el usado para realizar las pruebas tiempo de los modelos.
+
+-Carpeta Capturas: Se encuentran las capturas de los contornos  
+
+-Carpeta Models: Aqui se guardan los archivos h5 de los modelos
+
+-El archivo ShapeDetection es una demostracion de la captura de imagenes geometricas a traves de OpenCV
+
+-El archivo ShapeCropping es una demostracion de la captura y recorte de los contornos geometricos detectados por OpenCV
+
+-El archivo parcial2.py es la aplicacion final de captura y prediccion de dados por camara. Para tomar captura de los dados y sumarlos basta con presionar la tecla P
 
 Pruebas:
 
